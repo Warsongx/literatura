@@ -1,4 +1,4 @@
-# Literatura challenge
+# Literalura challenge
 ## Es un codigo diseñado para la toma y muestra de datos, provenientes de una API de libreria, en el cual mostraran los datos correspondientes al libro buscado
 ### Bryan Vivas
 
